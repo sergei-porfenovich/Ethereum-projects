@@ -19,4 +19,4 @@ the function refund - returns to the investors its ethereum and tokens are burne
 
 the function finishCrowdsale - if the softcap is reached,the funds are transferred to the organizer's account, the sale is closed
 
-the function createTokens - receives  funds,issues tokens,if the amount exceeding the hardcap is transferred,the investor will receive change,the funds will immediately be transferred to the organizer's address,the sale is closed
+the function createTokens - receives  funds,issues tokens, if the amount exceeding the hardcap is transferred, the investor will receive change, the funds will immediately be transferred to the organizer's address, the sale is closed
